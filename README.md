@@ -1,2 +1,2 @@
-# JqueryTutorialTest
-tutorial jquery testing
+# Tutorials
+tutorial i have made
